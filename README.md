@@ -39,11 +39,9 @@
 
 ###
 
-<div align="left">
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,vue,js,typescript,redux,nextjs,tailwind,bootstrap,jquery,sass,html,css,babel,composer" />
     <img src="https://skillicons.dev/icons?i=yarn,npm,gitlab,flutter,dart,cs,dotnet,mysql,php,figma,ps,visualstudio,vscode" /><br>
-</div>
 </div>
 
 ###
